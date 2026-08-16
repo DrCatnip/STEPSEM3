@@ -10,6 +10,16 @@
 - Problem 4 - Warehouse Inventory Balancer
 - Problem 5 - Movie Review Word Length Profiler
 
+## Week 2
+
+### Java Programming
+
+- Problem 1 - ATM PIN Length Validator
+- Problem 2 - Word Reversal Encoder
+- Problem 3 - Product Inventory CSV Parser
+- Problem 4 - Library ISBN Normalizer & Validator
+- Problem 5 - Stop-Word Filtered Word Frequency Report
+
 ## Language
 
 Java

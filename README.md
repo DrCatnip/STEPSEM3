@@ -9,6 +9,7 @@
 - Problem 3 - Traffic Signal Streak Analyzer
 - Problem 4 - Warehouse Inventory Balancer
 - Problem 5 - Movie Review Word Length Profiler
+- Class problems for week 1 added as well
 
 ## Week 2
 
@@ -19,6 +20,7 @@
 - Problem 3 - Product Inventory CSV Parser
 - Problem 4 - Library ISBN Normalizer & Validator
 - Problem 5 - Stop-Word Filtered Word Frequency Report
+- Class problems for week 2 added as well
 
 ## Week 4
 
@@ -29,6 +31,7 @@
 - Problem 3 - 3Sum
 - Problem 4 - Subarray Sum Equals K
 - Problem 5 - Find Minimum in Rotated Sorted Array
+- Class problems for week 4 added as well
 
 ## Week 5
 
@@ -39,6 +42,7 @@
 - Problem 3 - Top Performer Tracker
 - Problem 4 - Match Day Grid Analyzer
 - Problem 5 - Fantasy League Auto-Draft Ranking Engine 
+- Class problems for week 5 added as well
 
 ## Language
 

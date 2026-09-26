@@ -44,6 +44,39 @@
 - Problem 5 - Fantasy League Auto-Draft Ranking Engine 
 - Class problems for week 5 added as well
 
+## Week 6
+
+### Java Programming
+
+- Problem 1 - Library Inventory Management 
+- Problem 2 - Payroll Salary Management   
+- Problem 3 - Employee Profile Creation
+- Problem 4 - Exam Hall Ticket Reference Management
+- Problem 5 - Employee and Company Information Management
+- Class problems for week 6 added as well
+
+## Week 7
+
+### Java Programming
+
+- Problem 1 - The Health Bar
+- Problem 2 - The Playlist
+- Problem 3 - The Password Checker
+- Problem 4 - The Traffic Light
+- Problem 5 - The Shopping Cart
+- Class problems for week 7 added as well
+
+## Week 8
+
+### Java Programming
+
+- Problem 1 - The Canteen Billing Counter
+- Problem 2 - The Campus Parking Charge Calculator
+- Problem 3 - The Hostel Electricity Bill
+- Problem 4 - The Festival Bonus Calculator
+- Problem 5 - The Streaming Plan Renewal Reminder
+- Class problems for week 8 added as well
+
 ## Language
 
 Java

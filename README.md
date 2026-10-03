@@ -77,6 +77,17 @@
 - Problem 5 - The Streaming Plan Renewal Reminder
 - Class problems for week 8 added as well
 
+## Week 8
+
+### Java Programming
+
+- Problem 1 - Movie Ticket Counter
+- Problem 2 - Parcel Shipping Desk
+- Problem 3 - College Fee Counter
+- Problem 4 - City Cab Fare Meter
+- Problem 5 - Home Appliance Energy Report
+- Class problems for week 9 added as well
+
 ## Language
 
 Java

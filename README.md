@@ -77,7 +77,7 @@
 - Problem 5 - The Streaming Plan Renewal Reminder
 - Class problems for week 8 added as well
 
-## Week 8
+## Week 9
 
 ### Java Programming
 

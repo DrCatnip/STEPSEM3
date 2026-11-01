@@ -88,6 +88,17 @@
 - Problem 5 - Home Appliance Energy Report
 - Class problems for week 9 added as well
 
+## Week 10
+
+### Java Programming
+
+- Problem 1 - Busiest Bus Row
+- Problem 2 - Class Attendance Tracker
+- Problem 3 - Duty Roster Rotation
+- Problem 4 - Exam Score Band Counter
+- Problem 5 - Second-Best Score
+- Class problems for week 10 added as well: Vowel and Consonant Counter; Word Reverser and Palindrome Checker; Even and Odd Numbers in a List; In-Place Array Reversal; Digit Sum and Number Reversal; Prime Number Checker; Factorial Calculation; Student Grade Assignment; Leap Year Detector; Student Result Card Generator
+
 ## Language
 
 Java

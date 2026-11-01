@@ -99,6 +99,17 @@
 - Problem 5 - Second-Best Score
 - Class problems for week 10 added as well: Vowel and Consonant Counter; Word Reverser and Palindrome Checker; Even and Odd Numbers in a List; In-Place Array Reversal; Digit Sum and Number Reversal; Prime Number Checker; Factorial Calculation; Student Grade Assignment; Leap Year Detector; Student Result Card Generator
 
+## Week 11
+
+### Java Programming
+
+- Problem 1 - The Height Line-Up
+- Problem 2 - The Prize Table
+- Problem 3 - The Library Book Shelf
+- Problem 4 - Is the Queue in Order?
+- Problem 5 - The Dice Throw Tally
+- Class problems for week 11 added as well: Library Catalog Lookup; Warehouse Bin Grid Scan; Transaction Duplicate Check; Employee ID Lookup in an Unsorted Directory; Pair With Target Sum (Unsorted); Best Single Trade Profit; Insert Position in a Sorted List; Spiral Order Traversal; Pair Sum in a Sorted Array; Remove Duplicates From a Sorted Array In-Place
+
 ## Language
 
 Java
